@@ -22,10 +22,12 @@ function Main() {
           for the ultimate coffee experience.
         </p>
 
-        <div className="flex gap-6 items-center">
-          <button className="rounded-2xl bg-red-600 bg-opacity-90 text-white px-6 py-3 font-bold hover:bg-opacity-100 transition shadow-md">
-            Shop Now
-          </button>
+        <div className="relative flex gap-6 items-center">
+          <div className="flex justify-center items-center">
+            <button className="bg-[#A16D28] text-white px-6 py-3 font-bold rounded-2xl hover:opacity-60 transition duration-300 cursor-pointer">
+              Shop Now
+            </button>
+          </div>
 
           <a className="cursor-pointer underline hover:text-[#EAA64D] font-semibold">
             Explore Our Blends
