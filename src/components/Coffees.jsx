@@ -6,7 +6,7 @@ function Coffees() {
       style={{
         backgroundImage: "linear-gradient(90deg,#F8E1B7 0%,#F0BB78 100%)",
       }}
-      className="w-full min-h-screen px-6 py-20"
+      className="w-full min-h-1/2 px-6 py-20"
     >
       <div className="flex flex-col justify-center items-center gap-4 max-w-4xl mx-auto text-center mb-20">
         <h1 className="text-5xl font-extrabold text-[#5A3E1B] drop-shadow-md">
